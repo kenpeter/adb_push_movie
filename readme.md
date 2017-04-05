@@ -1,3 +1,3 @@
 ## Intro
 
-Try to push mp3 with chinese file names to /sdcard/Music on Android.
+Push mp4 to /sdcard/Movies in android
